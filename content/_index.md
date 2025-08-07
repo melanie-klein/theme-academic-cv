@@ -40,6 +40,15 @@ sections:
     design:
       columns: 1
   - block: collection
+    id: posts
+    content:
+      title: Posts
+      filters:
+        folders:
+          - post
+    design:
+      columns: 1  
+  - block: collection
     id: projects
     content:
       title: Projects
