@@ -35,10 +35,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'melaniejasmineklein@gmail.com'
+    url: 'mailto:melaniejasmineklein@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: 'www.linkedin.com/in/melaniejklein/' 
+    url: 'https://www.linkedin.com/in/melaniejklein/' 
   - icon: brands/github
     url: 'https://github.com/melanie-klein'
 
