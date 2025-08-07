@@ -38,9 +38,9 @@ profiles:
     url: 'melaniejasmineklein@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: www.linkedin.com/in/melaniejklein 
+    url: 'www.linkedin.com/in/melaniejklein/' 
   - icon: brands/github
-    url: https://github.com/melanie-klein
+    url: 'https://github.com/melanie-klein'
 
 interests:
   - Data Science
