@@ -38,6 +38,14 @@ sections:
         folders:
           - publication
     design:
-#      view: article-grid
+      columns: 1
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+    design:
       columns: 1
 ---
