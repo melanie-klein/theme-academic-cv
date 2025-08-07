@@ -50,8 +50,8 @@ interests:
 education:
   - area: B.S. in Data Sciences for Justice, Law, and Criminology
     institution: American University
-    date_start: 2021-08
-    date_end: 2025-05
+    date_start: 2021-08-01
+    date_end: 2025-05-01
     summary: |
       GPA: 3.96/4.0
     button:
@@ -59,8 +59,8 @@ education:
       url: 'https://example.com'
   - area: Public Policy and International Affairs Fellow
     institution: Carnegie Mellon University
-    date_start: 2024-07
-    date_end: 2024-08
+    date_start: 2024-07-01
+    date_end: 2024-08-01
     summary: |
       GPA: 4.0/4.0
 
